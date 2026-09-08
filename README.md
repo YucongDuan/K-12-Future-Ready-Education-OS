@@ -1,5 +1,7 @@
 # DIKWP Mesh92 K–12 Future-Ready Education OS
 
+Created by Yucong Duan (段玉聪).
+
 Version 1.0.0 · 2026-08-24 · Author: Yucong Duan / 段玉聪 · Apache-2.0
 
 This offline-first system retrofits existing K–12 subjects for an AI-disrupted labour market. It covers 12 grades, 8 reversible support profiles, 4 overlays, 96 grade-profile plans, 48 projects, 4 competing future-of-work models, an evidence-based Learning Passport, and a Mesh92 pilot ledger.
